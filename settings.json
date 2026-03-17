@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AJISHOI.aternos.me",
+    "ip": "AJISHOI.aternos.me:48537",
     "port": 48537,
     "version": "1.21.11",
     "try-creative": false
